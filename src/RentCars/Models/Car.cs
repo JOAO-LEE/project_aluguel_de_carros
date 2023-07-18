@@ -19,10 +19,3 @@ public class Car : Vehicle
   //     RearBrake = rearBrake;
   //   }
 }
-
-
-// Seats que deve ser do tipo Int;
-// Doors que deve ser do tipo Int;
-// Traction que deve ser do tipo TractionType;
-// FrontBrake que deve ser do tipo BrakeType;
-// RearBrake que deve ser do tipo BrakeType;
