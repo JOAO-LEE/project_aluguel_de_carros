@@ -5,4 +5,3 @@ namespace RentCars.Models;
 public class Car
 {
 }
-// Iniciando o projeto! #vqv!
